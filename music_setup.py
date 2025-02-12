@@ -13,6 +13,6 @@ if num == 1:
 elif num==2:
     os.system("mpv Jarvis2.mp3")
 else :
-    os.system("mpv JARVIS.mp3")
+    os.system("mpv Sanam_Teri_Kasam.mp3")
  
 ###########################################
